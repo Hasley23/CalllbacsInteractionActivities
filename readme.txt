@@ -1,0 +1,1 @@
+example app with interaction between two activities
